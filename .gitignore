@@ -1,0 +1,8 @@
+# compiled PDFs
+*.pdf
+
+# temporary files
+*.aux
+*.dvi
+*.log
+*.synctex.gz
