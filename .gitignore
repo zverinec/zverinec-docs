@@ -3,6 +3,7 @@
 
 # temporary files
 *.aux
+*.out
 *.dvi
 *.log
 *.synctex.gz
