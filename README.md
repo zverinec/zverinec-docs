@@ -1,3 +1,3 @@
 # Spolek přátel severské zvěře
 
-Pracovná verzia stanov.
+Uložiště formálnich dokumentů Zvěřince FI MUNI (stanovy, zápisy z valných hromad).
